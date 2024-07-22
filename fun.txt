@@ -1,5 +1,6 @@
 Bonjour,
 Je suis heuereuse d'apprendre GIT.
+Et vous?
 
 Cordialement,
 TOTOSS
